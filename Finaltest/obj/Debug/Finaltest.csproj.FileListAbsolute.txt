@@ -1,0 +1,7 @@
+C:\Users\tramr\OneDrive\Desktop\Tools\C#_Projects\Finaltest\Finaltest\bin\Debug\Finaltest.exe.config
+C:\Users\tramr\OneDrive\Desktop\Tools\C#_Projects\Finaltest\Finaltest\bin\Debug\Finaltest.exe
+C:\Users\tramr\OneDrive\Desktop\Tools\C#_Projects\Finaltest\Finaltest\bin\Debug\Finaltest.pdb
+C:\Users\tramr\OneDrive\Desktop\Tools\C#_Projects\Finaltest\Finaltest\obj\Debug\Finaltest.csprojAssemblyReference.cache
+C:\Users\tramr\OneDrive\Desktop\Tools\C#_Projects\Finaltest\Finaltest\obj\Debug\Finaltest.csproj.CoreCompileInputs.cache
+C:\Users\tramr\OneDrive\Desktop\Tools\C#_Projects\Finaltest\Finaltest\obj\Debug\Finaltest.exe
+C:\Users\tramr\OneDrive\Desktop\Tools\C#_Projects\Finaltest\Finaltest\obj\Debug\Finaltest.pdb
